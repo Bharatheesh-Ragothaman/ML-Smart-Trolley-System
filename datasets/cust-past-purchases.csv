@@ -1,0 +1,251 @@
+﻿Customer_ID,Past_Purchases
+CUST_1,"Sunrise-100G, Sugar-1KG, Raw-Rice-1KG, Hamam-100G"
+CUST_1,"Taj-Mahal-100G, Amul-Cheese-100G, Parachute-1L, Cloth-Clips"
+CUST_1,"Tide-Soap, Toor-Dal-1KG"
+CUST_10,Taj-Mahal-100G
+Bharatheesh,5-Star
+Bharatheesh,"5-Star, Hamam-100G"
+Bharatheesh,Amul-Cheese-100G
+Bharatheesh,"Kissan-Jam-200G, Amul-Butter-100G"
+Bharatheesh,"Tide-Soap, Bourbon, Parachute-1L, Wall-hanger"
+Bharatheesh,"Aashirvad-1KG, Sugar-1KG, Gold-Winner-1L, Parachute-1L"
+CUST_11,"Snickers, Sunrise-100G"
+CUST_11,Pepsi-750ML
+CUST_11,Dettol-Hwash-200ML
+CUST_11,"Sunrise-100G, Wall-hanger, Aashirvad-1KG"
+CUST_12,Amul-Butter-100G
+CUST_13,"5-Star, Raw-Rice-1KG, Urad-Dal-1KG"
+CUST_13,Urad-Dal-1KG
+CUST_13,"Gold-Winner-1L, Kissan-Sauce-450G, Clinic-Plus-300G, 5-Star"
+CUST_14,"Snickers, Amul-Butter-100G, Clinic-Plus-300G"
+CUST_14,"5-Star, Aashirvad-1KG"
+CUST_14,"Tide-Soap, Aashirvad-1KG"
+CUST_15,"Taj-Mahal-100G, Raw-Rice-1KG, Parachute-1L, Aavin-Milk"
+CUST_15,"Gold-Winner-1L, Aashirvad-1KG"
+CUST_15,Cloth-Clips
+CUST_16,"Clinic-Plus-300G, Amul-Butter-100G"
+CUST_18,"Hamam-100G, Bourbon, Amul-Cheese-100G"
+CUST_18,Aavin-Milk
+CUST_18,"Hamam-100G, Dettol-Hwash-200ML"
+CUST_18,"Amul-Butter-100G, Nivea-Deo-150ML, Toor-Dal-1KG"
+CUST_18,"Amul-Cheese-100G, Act-II-Instant-70G, Nivea-Deo-150ML"
+CUST_19,"5-Star, Sunrise-100G, Nivea-Deo-150ML"
+CUST_19,"Act-II-Instant-70G, Amul-Butter-100G, Dettol-Hwash-200ML, Cloth-Clips"
+CUST_2,"Taj-Mahal-100G, Snickers, 5-Star"
+CUST_20,"Toor-Dal-1KG, Clinic-Plus-300G, Parachute-1L"
+CUST_21,"Aavin-Milk, Toor-Dal-1KG"
+CUST_21,"Toor-Dal-1KG, Dettol-Hwash-200ML"
+CUST_21,"Sugar-1KG, Snickers"
+CUST_21,Tide-Soap
+CUST_21,"Tide-Soap, Amul-Butter-100G, Aavin-Milk"
+CUST_21,"Nivea-Deo-150ML, Sunrise-100G, Pepsi-750ML"
+CUST_23,"Kissan-Jam-200G, Urad-Dal-1KG, Sugar-1KG, Nivea-Deo-150ML"
+CUST_23,Gold-Winner-1L
+CUST_23,"Cloth-Clips, Raw-Rice-1KG, Sweet-Bread"
+CUST_24,Clinic-Plus-300G
+CUST_24,Dettol-Hwash-200ML
+CUST_24,"Lays, Kissan-Jam-200G, Colgate-Brush, Dettol-Hwash-200ML"
+CUST_25,"Amul-Butter-100G, Tide-Soap, Lays"
+CUST_25,"Bourbon, Lays, Sugar-1KG, 5-Star"
+CUST_26,Toor-Dal-1KG
+CUST_26,"Amul-Cheese-100G, Colgate-Brush"
+CUST_27,"Colgate-Brush, Urad-Dal-1KG"
+CUST_27,"Lays, Urad-Dal-1KG"
+CUST_27,Nivea-Deo-150ML
+CUST_27,"Act-II-Instant-70G, Aavin-Milk, Snickers"
+CUST_28,"Bourbon, Clinic-Plus-300G, Aashirvad-1KG"
+CUST_28,"Parachute-1L, Sweet-Bread, Act-II-Instant-70G"
+CUST_29,Parachute-1L
+CUST_29,"Raw-Rice-1KG, Snickers, Parachute-1L"
+CUST_3,Pepsi-750ML
+CUST_30,"5-Star, Raw-Rice-1KG"
+CUST_30,"Taj-Mahal-100G, Bourbon"
+CUST_30,Nivea-Deo-150ML
+CUST_30,"Hamam-100G, Clinic-Plus-300G"
+CUST_31,"Colgate, Sugar-1KG, Colgate-Brush"
+CUST_31,"Amul-Butter-100G, Urad-Dal-1KG, Gold-Winner-1L, Parachute-1L"
+CUST_32,"Aavin-Milk, Act-II-Instant-70G, Pepsi-750ML"
+CUST_32,Pepsi-750ML
+CUST_33,"Pepsi-750ML, Nivea-Deo-150ML, Toor-Dal-1KG, Sunrise-100G"
+CUST_33,"Hamam-100G, Sweet-Bread, Cloth-Clips"
+CUST_33,Pepsi-750ML
+CUST_33,"Nivea-Deo-150ML, Snickers"
+CUST_34,Taj-Mahal-100G
+CUST_34,"Kissan-Jam-200G, Tide-Soap"
+CUST_34,"Nivea-Deo-150ML, Cloth-Clips"
+CUST_34,Sunrise-100G
+CUST_35,"Dettol-Hwash-200ML, Act-II-Instant-70G"
+CUST_36,"Cloth-Clips, Sweet-Bread, Taj-Mahal-100G"
+CUST_36,Kissan-Jam-200G
+CUST_36,"Amul-Cheese-100G, Dettol-Hwash-200ML, Hamam-100G"
+Abishek-Raja,"Amul-Cheese-100G, Colgate-Brush, Kissan-Sauce-450G, Hamam-100G"
+Abishek-Raja,"Pepsi-750ML, Sunrise-100G, Gold-Winner-1L"
+Abishek-Raja,Gold-Winner-1L
+Abishek-Raja,"Kissan-Sauce-450G, Colgate-Brush, Sugar-1KG"
+Abishek-Raja,Sunrise-100G
+CUST_38,Snickers
+CUST_38,"Urad-Dal-1KG, 5-Star, Kissan-Sauce-450G"
+CUST_4,Sugar-1KG
+CUST_4,"Sunrise-100G, Sweet-Bread"
+CUST_4,Kissan-Jam-200G
+CUST_4,"Parachute-1L, Wall-hanger, Colgate-Brush"
+CUST_4,"Taj-Mahal-100G, Amul-Cheese-100G"
+CUST_40,Taj-Mahal-100G
+CUST_40,Dettol-Hwash-200ML
+CUST_40,"Wall-hanger, Kissan-Sauce-450G"
+CUST_41,"Colgate-Brush, Aashirvad-1KG"
+CUST_41,"Taj-Mahal-100G, Bourbon"
+CUST_41,"Gold-Winner-1L, Colgate, Sugar-1KG, Amul-Cheese-100G"
+CUST_41,"Urad-Dal-1KG, Cloth-Clips, Amul-Cheese-100G, Sugar-1KG"
+CUST_42,"5-Star, Lays"
+CUST_42,Kissan-Jam-200G
+CUST_42,"Hamam-100G, Gold-Winner-1L, Kissan-Sauce-450G"
+CUST_43,Cloth-Clips
+CUST_43,Taj-Mahal-100G
+CUST_43,"Amul-Butter-100G, Gold-Winner-1L"
+CUST_43,"Act-II-Instant-70G, Taj-Mahal-100G, Gold-Winner-1L, Lays"
+CUST_43,Hamam-100G
+CUST_43,"Amul-Butter-100G, Aavin-Milk"
+CUST_43,"Clinic-Plus-300G, Nivea-Deo-150ML, Sugar-1KG"
+CUST_44,Cloth-Clips
+CUST_44,"Snickers, Sugar-1KG, Raw-Rice-1KG"
+CUST_44,Aashirvad-1KG
+CUST_44,Kissan-Sauce-450G
+CUST_46,"Sugar-1KG, Dettol-Hwash-200ML, Act-II-Instant-70G, Parachute-1L"
+CUST_46,"Kissan-Jam-200G, Aavin-Milk, Act-II-Instant-70G"
+CUST_48,"Dettol-Hwash-200ML, Taj-Mahal-100G, Sugar-1KG, Urad-Dal-1KG"
+CUST_49,Wall-hanger
+CUST_5,"Sweet-Bread, Toor-Dal-1KG"
+CUST_5,"Wall-hanger, Colgate, Sunrise-100G"
+CUST_50,"Urad-Dal-1KG, Act-II-Instant-70G, Hamam-100G, Aashirvad-1KG"
+CUST_50,"Dettol-Hwash-200ML, Toor-Dal-1KG"
+CUST_51,Amul-Cheese-100G
+CUST_53,"Pepsi-750ML, Cloth-Clips, Sugar-1KG"
+CUST_53,"Amul-Butter-100G, Aashirvad-1KG"
+CUST_54,"Lays, Wall-hanger"
+CUST_54,"Hamam-100G, Parachute-1L, 5-Star"
+CUST_55,Snickers
+CUST_56,"Amul-Cheese-100G, Lays"
+CUST_57,"Wall-hanger, 5-Star"
+CUST_57,Wall-hanger
+CUST_57,"Colgate-Brush, Sugar-1KG, Amul-Cheese-100G, Sunrise-100G"
+CUST_57,"Urad-Dal-1KG, Act-II-Instant-70G, Kissan-Jam-200G"
+CUST_58,Pepsi-750ML
+CUST_58,"Sunrise-100G, Cloth-Clips"
+CUST_58,Aashirvad-1KG
+CUST_59,"Lays, Snickers, Nivea-Deo-150ML"
+CUST_59,"Act-II-Instant-70G, Gold-Winner-1L, Lays"
+CUST_6,Lays
+CUST_6,"Gold-Winner-1L, Aavin-Milk, Pepsi-750ML"
+CUST_60,"Taj-Mahal-100G, Act-II-Instant-70G, Gold-Winner-1L, Cloth-Clips"
+CUST_60,"Sugar-1KG, Taj-Mahal-100G, Nivea-Deo-150ML, Amul-Cheese-100G"
+CUST_61,"Raw-Rice-1KG, Amul-Cheese-100G"
+CUST_61,"Amul-Cheese-100G, Cloth-Clips, Nivea-Deo-150ML"
+CUST_61,"Urad-Dal-1KG, Snickers"
+CUST_62,"Amul-Cheese-100G, Urad-Dal-1KG, Sweet-Bread"
+CUST_62,"Colgate, Hamam-100G, Urad-Dal-1KG, Snickers"
+CUST_62,"Sweet-Bread, Amul-Butter-100G, Sugar-1KG"
+CUST_63,"Gold-Winner-1L, Clinic-Plus-300G, Pepsi-750ML, Colgate"
+CUST_63,"Lays, Clinic-Plus-300G, Aavin-Milk"
+CUST_64,"Toor-Dal-1KG, Gold-Winner-1L, Hamam-100G, Colgate"
+CUST_64,"Colgate, 5-Star, Sugar-1KG, Bourbon"
+CUST_64,"Act-II-Instant-70G, Raw-Rice-1KG, Taj-Mahal-100G"
+CUST_64,Amul-Cheese-100G
+CUST_64,Gold-Winner-1L
+CUST_65,Kissan-Jam-200G
+CUST_65,Cloth-Clips
+CUST_65,"Aavin-Milk, Tide-Soap"
+CUST_65,"Taj-Mahal-100G, Act-II-Instant-70G, Tide-Soap"
+CUST_66,"Snickers, Tide-Soap"
+CUST_66,"Sunrise-100G, Aashirvad-1KG, Clinic-Plus-300G"
+CUST_67,"Colgate, Snickers, Tide-Soap"
+CUST_67,"Kissan-Jam-200G, Sugar-1KG, Snickers, Dettol-Hwash-200ML"
+CUST_67,"Snickers, Clinic-Plus-300G"
+CUST_69,Act-II-Instant-70G
+CUST_69,"Dettol-Hwash-200ML, Hamam-100G"
+CUST_7,"Raw-Rice-1KG, Sweet-Bread"
+CUST_70,Act-II-Instant-70G
+CUST_70,"Cloth-Clips, Aashirvad-1KG"
+CUST_70,"Colgate-Brush, Aavin-Milk"
+CUST_71,"Gold-Winner-1L, Snickers"
+CUST_71,"Sunrise-100G, Gold-Winner-1L, Toor-Dal-1KG, Hamam-100G"
+CUST_71,Tide-Soap
+CUST_72,Pepsi-750ML
+CUST_73,"Act-II-Instant-70G, Colgate, Sugar-1KG, Amul-Butter-100G"
+CUST_73,"Kissan-Sauce-450G, Tide-Soap, Sugar-1KG"
+CUST_74,"Hamam-100G, Amul-Cheese-100G"
+CUST_74,Hamam-100G
+CUST_75,"Sugar-1KG, Toor-Dal-1KG, Gold-Winner-1L, Colgate"
+CUST_75,"Pepsi-750ML, Snickers"
+CUST_75,"Amul-Cheese-100G, Cloth-Clips, Bourbon"
+CUST_76,"Hamam-100G, Aashirvad-1KG, Amul-Butter-100G"
+CUST_76,"Taj-Mahal-100G, Act-II-Instant-70G, Amul-Butter-100G"
+CUST_76,"Taj-Mahal-100G, Act-II-Instant-70G"
+CUST_76,"Wall-hanger, 5-Star, Kissan-Jam-200G"
+CUST_77,"Kissan-Sauce-450G, Sweet-Bread, Snickers"
+CUST_77,"Colgate-Brush, Bourbon, Toor-Dal-1KG"
+CUST_78,Lays
+CUST_78,"Aavin-Milk, Aashirvad-1KG, Toor-Dal-1KG, Urad-Dal-1KG"
+CUST_78,"Dettol-Hwash-200ML, Toor-Dal-1KG, Kissan-Jam-200G, Urad-Dal-1KG"
+CUST_79,"Kissan-Sauce-450G, Wall-hanger"
+CUST_79,"Clinic-Plus-300G, Bourbon"
+CUST_8,Raw-Rice-1KG
+CUST_83,"Raw-Rice-1KG, Sweet-Bread, Nivea-Deo-150ML, Taj-Mahal-100G"
+CUST_83,"Amul-Cheese-100G, Act-II-Instant-70G, Taj-Mahal-100G, Wall-hanger"
+CUST_83,"Hamam-100G, Aavin-Milk, Gold-Winner-1L, Tide-Soap"
+CUST_84,"Sweet-Bread, Clinic-Plus-300G"
+CUST_84,Wall-hanger
+CUST_84,"Sunrise-100G, Clinic-Plus-300G, Wall-hanger, Aashirvad-1KG"
+CUST_84,"Sweet-Bread, Aashirvad-1KG, Snickers"
+CUST_85,"Wall-hanger, Cloth-Clips"
+CUST_86,Toor-Dal-1KG
+CUST_86,Parachute-1L
+CUST_86,"Gold-Winner-1L, Urad-Dal-1KG"
+CUST_87,Wall-hanger
+CUST_87,"Aashirvad-1KG, Dettol-Hwash-200ML, 5-Star, Nivea-Deo-150ML"
+CUST_88,"Colgate-Brush, Gold-Winner-1L"
+CUST_88,"Clinic-Plus-300G, Gold-Winner-1L"
+CUST_88,"Amul-Cheese-100G, Taj-Mahal-100G, Sugar-1KG, Colgate"
+CUST_88,Tide-Soap
+CUST_88,"Amul-Butter-100G, Pepsi-750ML, Amul-Cheese-100G"
+CUST_88,"Taj-Mahal-100G, Amul-Butter-100G, Aashirvad-1KG"
+CUST_88,Dettol-Hwash-200ML
+CUST_89,"Colgate, Toor-Dal-1KG, Lays, Bourbon"
+CUST_89,"Tide-Soap, Dettol-Hwash-200ML, Amul-Butter-100G"
+CUST_89,"Clinic-Plus-300G, Nivea-Deo-150ML, Parachute-1L, 5-Star"
+CUST_9,"Raw-Rice-1KG, Amul-Cheese-100G"
+CUST_90,"Lays, Urad-Dal-1KG"
+CUST_90,"Tide-Soap, Taj-Mahal-100G, Colgate"
+CUST_90,Clinic-Plus-300G
+CUST_90,Sweet-Bread
+CUST_90,Clinic-Plus-300G
+CUST_90,"Sunrise-100G, Tide-Soap, Nivea-Deo-150ML, Clinic-Plus-300G"
+CUST_90,"Lays, 5-Star, Urad-Dal-1KG, Sweet-Bread"
+CUST_91,"Sugar-1KG, Urad-Dal-1KG, Parachute-1L"
+CUST_91,"Clinic-Plus-300G, Cloth-Clips, Nivea-Deo-150ML, Tide-Soap"
+CUST_91,"Wall-hanger, Amul-Cheese-100G, Colgate-Brush, Sunrise-100G"
+CUST_91,"Urad-Dal-1KG, Act-II-Instant-70G, Parachute-1L, Nivea-Deo-150ML"
+CUST_92,"Wall-hanger, Clinic-Plus-300G"
+CUST_92,"Nivea-Deo-150ML, Lays, Colgate-Brush"
+CUST_92,Aashirvad-1KG
+CUST_93,"Lays, Colgate, Kissan-Jam-200G"
+CUST_93,"Sugar-1KG, Clinic-Plus-300G, Colgate, Raw-Rice-1KG"
+CUST_93,Amul-Cheese-100G
+CUST_93,"Dettol-Hwash-200ML, Urad-Dal-1KG, Kissan-Jam-200G, Clinic-Plus-300G"
+CUST_94,"Sweet-Bread, Gold-Winner-1L, Act-II-Instant-70G, Snickers"
+CUST_94,Snickers
+CUST_94,"Pepsi-750ML, Parachute-1L"
+CUST_95,"Toor-Dal-1KG, Colgate, Tide-Soap"
+CUST_95,Hamam-100G
+CUST_95,"Kissan-Sauce-450G, Wall-hanger"
+CUST_96,Sweet-Bread
+CUST_97,"Nivea-Deo-150ML, Hamam-100G, Dettol-Hwash-200ML, Lays"
+CUST_97,"Amul-Cheese-100G, Aavin-Milk"
+CUST_97,"Wall-hanger, Tide-Soap, Snickers, Toor-Dal-1KG"
+CUST_98,"Kissan-Sauce-450G, Clinic-Plus-300G, Colgate-Brush, Kissan-Jam-200G"
+CUST_98,"Gold-Winner-1L, Aashirvad-1KG"
+CUST_98,"Act-II-Instant-70G, Amul-Cheese-100G"
+CUST_98,"Amul-Cheese-100G, Gold-Winner-1L"
+CUST_99,"Amul-Cheese-100G, Raw-Rice-1KG"
+CUST_99,"Bourbon, Clinic-Plus-300G"
+CUST_99,"Nivea-Deo-150ML, Toor-Dal-1KG, Sweet-Bread"
